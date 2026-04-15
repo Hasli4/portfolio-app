@@ -38,7 +38,8 @@ This project is useful for:
 
 ## Screenshot
 
-![App Screenshot](assets/screenshots/app.png)
+![Admin-app](assets/screenshoots/app.png)
+![Website](assets/screenshoots/website.png)
 ---
 
 ## Tech stack

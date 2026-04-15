@@ -38,8 +38,8 @@ Portfolio App — это локальное приложение для быст
 
 ## Скриншот
 
-![img](assets/screenshots/app.png)
-
+![Admin-приложение](assets/screenshoots/app.png)
+![Экспортированный сайт](assets/screenshoots/website.png)
 ---
 
 ## Технологии
