@@ -1,4 +1,4 @@
-# Portfolio App
+# DevNest Portfolio
 
 A desktop Electron app for building a developer portfolio through a clean admin panel.  
 Users can add themes, projects, descriptions, links, images, and a profile photo, then export everything into a fully static website.
