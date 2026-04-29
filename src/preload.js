@@ -6,7 +6,7 @@ contextBridge.exposeInMainWorld('api', {
   copyCover: (data) => ipcRenderer.invoke('portfolio:copyCover', data),
   exportSite: () => ipcRenderer.invoke('portfolio:export'),
   openExternal: (url) => ipcRenderer.invoke('app:openExternal', url),
-  pickImage: () => ipcRenderer.invoke('dialog:pickImage'),
+  pickImage: (language) => ipcRenderer.invoke('dialog:pickImage', language),
   confirmDelete: (payload) => ipcRenderer.invoke('confirm-delete', payload),
   copyDeveloperPhoto: (sourcePath) => ipcRenderer.invoke('portfolio:copyDeveloperPhoto', sourcePath),
   openExportFolder: () => ipcRenderer.invoke('portfolio:openExportFolder'),
